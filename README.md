@@ -10,10 +10,6 @@ Farcaster Quiz is an interactive web-based quiz platform designed to engage user
 - **Leaderboard:** Display the top scorers based on their performance.
 - **Responsive Design:** The app is mobile-friendly and responsive across various screen sizes.
 
-## Installation
-
-To run the Farcaster Quiz locally, follow these steps:
-
 ### Prerequisites
 
 Ensure you have the following installed:

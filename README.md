@@ -67,15 +67,10 @@ We welcome contributions to improve Farcaster Quiz! To get started:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-- Farcaster Protocol for inspiration and blockchain education.
-- React and other open-source tools for making this project possible.
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact us via [email@example.com].
+For any questions or suggestions, feel free to open an issue or contact us via [watchcoinfarcast@gmail.com].
 
 ---
 
-Make sure to customize the placeholders like repository URL, your username, and any specific details about your project.
